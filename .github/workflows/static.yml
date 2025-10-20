@@ -2,7 +2,7 @@
 name: Deploy HTML from data to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on pushes targeting the main branch
   push:
     branches: ["main"]
 
@@ -29,16 +29,22 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Pages
+      - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload HTML files from data/
+      - name: Prepare HTML files for deployment
+        run: |
+          mkdir -p deploy_html
+          # data/ altındaki tüm alt klasörleri dahil ederek HTML dosyalarını kopyala
+          find data -type f -name "*.html" -exec cp {} deploy_html/ \;
+
+      - name: Upload HTML files artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'data/**/*.html'
+          path: 'deploy_html'
 
       - name: Deploy to GitHub Pages
         id: deployment

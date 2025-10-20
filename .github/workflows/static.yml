@@ -35,17 +35,9 @@ jobs:
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Prepare HTML files for deployment
-        run: |
-          mkdir -p deploy_html
-          # data/ altındaki tüm alt klasörleri dahil ederek HTML dosyalarını kopyala
-          find data -type f -name "*.html" -exec cp {} deploy_html/ \;
-
-      - name: Upload HTML files artifact
+      - name: Upload HTML files from data/
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'deploy_html'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          # data/ altındaki tüm .html dosyalarını ve alt klasörlerdeki dosyaları al
+          path: |
+            data/**/*.html

@@ -2,15 +2,12 @@
 name: Deploy HTML from data to Pages
 
 on:
-  # Runs on pushes targeting the main branch
   push:
     branches: ["main"]
 
-  # Schedule to run every day at 10:20 AM
   schedule:
     - cron: "20 10 * * *"
 
-  # Allows manual trigger
   workflow_dispatch:
 
 permissions:
@@ -35,9 +32,17 @@ jobs:
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload HTML files from data/
+      - name: Collect all HTML files
+        run: |
+          mkdir -p html_for_deploy
+          # data/ altındaki tüm HTML dosyalarını ve alt klasörleri tarayarak kopyala
+          find data -type f -name "*.html" -exec cp {} html_for_deploy/ \;
+
+      - name: Upload HTML files artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # data/ altındaki tüm .html dosyalarını ve alt klasörlerdeki dosyaları al
-          path: |
-            data/**/*.html
+          path: 'html_for_deploy'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -2,15 +2,14 @@ name: Deploy static HTML to GitHub Pages
 
 on:
   push:
-    branches: ["main"]   # public repo'daki ana branch
-  workflow_dispatch:      # Manuel tetikleme desteği
+    branches: ["main"]   # Public repo'daki ana branch
+  workflow_dispatch:      # Manuel tetikleme
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Aynı anda birden fazla Pages build çalışmasın
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -26,13 +25,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # data/ klasöründeki HTML dosyalarını Pages'e yükle
+      # Root + data klasörünü Pages'e yükle
       - name: Upload static HTML
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './data'
+          path: '.'   # Repo kökünü deploy ediyor
 
-      # Yayına al
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

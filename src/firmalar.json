@@ -1,0 +1,3542 @@
+[
+  {
+    "firmaId": 2,
+    "hisseAdi": "A1CAP",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 1231,
+    "hisseAdi": "A1YEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 3,
+    "hisseAdi": "ACSEL",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 4,
+    "hisseAdi": "ADEL",
+    "firmaSektorBilgisi": "İmalat",
+    "firmaSektorleri": "İmalat"
+  },
+  {
+    "firmaId": 5,
+    "hisseAdi": "ADESE",
+    "firmaSektorBilgisi": "Gayrimenkul Faaliyetleri",
+    "firmaSektorleri": "Gayrimenkul Faaliyetleri"
+  },
+  {
+    "firmaId": 1130,
+    "hisseAdi": "ADGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 43,
+    "hisseAdi": "AEFES",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 6,
+    "hisseAdi": "AFYON",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 8,
+    "hisseAdi": "AGESA",
+    "firmaSektorBilgisi": "Sigorta Şirketleri",
+    "firmaSektorleri": "Sigorta Şirketleri"
+  },
+  {
+    "firmaId": 7,
+    "hisseAdi": "AGHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1146,
+    "hisseAdi": "AGROT",
+    "firmaSektorBilgisi": "Tarım ve Hayvancılık, Avcılık",
+    "firmaSektorleri": "Tarım ve Hayvancılık, Avcılık"
+  },
+  {
+    "firmaId": 58,
+    "hisseAdi": "AGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 9,
+    "hisseAdi": "AHGAZ",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 1196,
+    "hisseAdi": "AHSGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 13,
+    "hisseAdi": "AKBNK",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 14,
+    "hisseAdi": "AKCNS",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 17,
+    "hisseAdi": "AKENR",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 18,
+    "hisseAdi": "AKFGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1219,
+    "hisseAdi": "AKFIS",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 1089,
+    "hisseAdi": "AKFYE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 25,
+    "hisseAdi": "AKGRT",
+    "firmaSektorBilgisi": "Sigorta Şirketleri",
+    "firmaSektorleri": "Sigorta Şirketleri"
+  },
+  {
+    "firmaId": 22,
+    "hisseAdi": "AKMGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 23,
+    "hisseAdi": "AKSA",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 24,
+    "hisseAdi": "AKSEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 21,
+    "hisseAdi": "AKSGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 26,
+    "hisseAdi": "AKSUE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 16,
+    "hisseAdi": "AKYHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 31,
+    "hisseAdi": "ALARK",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 32,
+    "hisseAdi": "ALBRK",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 29,
+    "hisseAdi": "ALCAR",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 33,
+    "hisseAdi": "ALCTL",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 34,
+    "hisseAdi": "ALFAS",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 30,
+    "hisseAdi": "ALGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 37,
+    "hisseAdi": "ALKA",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 36,
+    "hisseAdi": "ALKIM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1183,
+    "hisseAdi": "ALKLC",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1176,
+    "hisseAdi": "ALTNY",
+    "firmaSektorBilgisi": "Savunma",
+    "firmaSektorleri": "Savunma"
+  },
+  {
+    "firmaId": 1163,
+    "hisseAdi": "ALVES",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 47,
+    "hisseAdi": "ANELE",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 46,
+    "hisseAdi": "ANGEN",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 44,
+    "hisseAdi": "ANHYT",
+    "firmaSektorBilgisi": "Sigorta Şirketleri",
+    "firmaSektorleri": "Sigorta Şirketleri"
+  },
+  {
+    "firmaId": 42,
+    "hisseAdi": "ANSGR",
+    "firmaSektorBilgisi": "Sigorta Şirketleri",
+    "firmaSektorleri": "Sigorta Şirketleri"
+  },
+  {
+    "firmaId": 159,
+    "hisseAdi": "ARASE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 48,
+    "hisseAdi": "ARCLK",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 49,
+    "hisseAdi": "ARDYZ",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 50,
+    "hisseAdi": "ARENA",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1216,
+    "hisseAdi": "ARMGD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 53,
+    "hisseAdi": "ARSAN",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1165,
+    "hisseAdi": "ARTMS",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 54,
+    "hisseAdi": "ARZUM",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 55,
+    "hisseAdi": "ASELS",
+    "firmaSektorBilgisi": "Savunma",
+    "firmaSektorleri": "Savunma"
+  },
+  {
+    "firmaId": 1114,
+    "hisseAdi": "ASGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1085,
+    "hisseAdi": "ASTOR",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 45,
+    "hisseAdi": "ASUZU",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 56,
+    "hisseAdi": "ATAGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1109,
+    "hisseAdi": "ATAKP",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 62,
+    "hisseAdi": "ATATP",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 20,
+    "hisseAdi": "ATEKS",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 61,
+    "hisseAdi": "ATLAS",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 60,
+    "hisseAdi": "ATSYH",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 63,
+    "hisseAdi": "AVGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 65,
+    "hisseAdi": "AVHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1,
+    "hisseAdi": "AVOD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1155,
+    "hisseAdi": "AVPGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 64,
+    "hisseAdi": "AVTUR",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 40,
+    "hisseAdi": "AYCES",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 66,
+    "hisseAdi": "AYDEM",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 67,
+    "hisseAdi": "AYEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 68,
+    "hisseAdi": "AYES",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 69,
+    "hisseAdi": "AYGAZ",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 71,
+    "hisseAdi": "AZTEK",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 72,
+    "hisseAdi": "BAGFS",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1193,
+    "hisseAdi": "BAHKM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 73,
+    "hisseAdi": "BAKAB",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 74,
+    "hisseAdi": "BALAT",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1228,
+    "hisseAdi": "BALSU",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 76,
+    "hisseAdi": "BANVT",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 77,
+    "hisseAdi": "BARMA",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 79,
+    "hisseAdi": "BASCM",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 78,
+    "hisseAdi": "BASGZ",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 82,
+    "hisseAdi": "BAYRK",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1150,
+    "hisseAdi": "BEGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 83,
+    "hisseAdi": "BERA",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1234,
+    "hisseAdi": "BESLR",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 87,
+    "hisseAdi": "BEYAZ",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 103,
+    "hisseAdi": "BFREN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1097,
+    "hisseAdi": "BIENY",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 1096,
+    "hisseAdi": "BIGCH",
+    "firmaSektorBilgisi": "Yiyecek ve İçecek Hizmetleri",
+    "firmaSektorleri": "Yiyecek ve İçecek Hizmetleri"
+  },
+  {
+    "firmaId": 1223,
+    "hisseAdi": "BIGEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 1256,
+    "hisseAdi": "BIGTK",
+    "firmaSektorBilgisi": "Yayıncılık",
+    "firmaSektorleri": "Yayıncılık"
+  },
+  {
+    "firmaId": 91,
+    "hisseAdi": "BIMAS",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 1201,
+    "hisseAdi": "BINBN",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1145,
+    "hisseAdi": "BINHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 92,
+    "hisseAdi": "BIOEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 97,
+    "hisseAdi": "BIZIM",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 86,
+    "hisseAdi": "BJKAS",
+    "firmaSektorBilgisi": "Spor",
+    "firmaSektorleri": "Spor"
+  },
+  {
+    "firmaId": 89,
+    "hisseAdi": "BLCYT",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1252,
+    "hisseAdi": "BLUME",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 99,
+    "hisseAdi": "BMSCH",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 98,
+    "hisseAdi": "BMSTL",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 75,
+    "hisseAdi": "BNTAS",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 100,
+    "hisseAdi": "BOBET",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 1136,
+    "hisseAdi": "BORLS",
+    "firmaSektorBilgisi": "Kiralama ve Leasing Faaliyetleri",
+    "firmaSektorleri": "Kiralama ve Leasing Faaliyetleri"
+  },
+  {
+    "firmaId": 1160,
+    "hisseAdi": "BORSK",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 104,
+    "hisseAdi": "BOSSA",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 105,
+    "hisseAdi": "BRISA",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 94,
+    "hisseAdi": "BRKO",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 85,
+    "hisseAdi": "BRKSN",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 93,
+    "hisseAdi": "BRKVY",
+    "firmaSektorBilgisi": "Varlık Yönetim Şirketleri",
+    "firmaSektorleri": "Varlık Yönetim Şirketleri"
+  },
+  {
+    "firmaId": 95,
+    "hisseAdi": "BRLSM",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 96,
+    "hisseAdi": "BRMEN",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 101,
+    "hisseAdi": "BRSAN",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 102,
+    "hisseAdi": "BRYAT",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 81,
+    "hisseAdi": "BSOKE",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 80,
+    "hisseAdi": "BTCIM",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 109,
+    "hisseAdi": "BUCIM",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 1229,
+    "hisseAdi": "BULGS",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 106,
+    "hisseAdi": "BURCE",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 107,
+    "hisseAdi": "BURVA",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 1087,
+    "hisseAdi": "BVSAN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1121,
+    "hisseAdi": "BYDNR",
+    "firmaSektorBilgisi": "Yiyecek ve İçecek Hizmetleri",
+    "firmaSektorleri": "Yiyecek ve İçecek Hizmetleri"
+  },
+  {
+    "firmaId": 113,
+    "hisseAdi": "CANTE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 115,
+    "hisseAdi": "CASA",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 1149,
+    "hisseAdi": "CATES",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 125,
+    "hisseAdi": "CCOLA",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 117,
+    "hisseAdi": "CELHA",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 118,
+    "hisseAdi": "CEMAS",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 119,
+    "hisseAdi": "CEMTS",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 1198,
+    "hisseAdi": "CEMZY",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 120,
+    "hisseAdi": "CEOEM",
+    "firmaSektorBilgisi": "Büro Yönetimi, Büro Desteği Faaliyetleri",
+    "firmaSektorleri": "Büro Yönetimi, Büro Desteği Faaliyetleri"
+  },
+  {
+    "firmaId": 1202,
+    "hisseAdi": "CGCAM",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 124,
+    "hisseAdi": "CIMSA",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 116,
+    "hisseAdi": "CLEBI",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 122,
+    "hisseAdi": "CMBTN",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 123,
+    "hisseAdi": "CMENT",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 126,
+    "hisseAdi": "CONSE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 127,
+    "hisseAdi": "COSMO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 128,
+    "hisseAdi": "CRDFA",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 114,
+    "hisseAdi": "CRFSA",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 129,
+    "hisseAdi": "CUSAN",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 1092,
+    "hisseAdi": "CVKMD",
+    "firmaSektorBilgisi": "Metal Cevheri Madenciliği",
+    "firmaSektorleri": "Metal Cevheri Madenciliği"
+  },
+  {
+    "firmaId": 1095,
+    "hisseAdi": "CWENE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 131,
+    "hisseAdi": "DAGI",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 133,
+    "hisseAdi": "DAPGM",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 134,
+    "hisseAdi": "DARDL",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1189,
+    "hisseAdi": "DCTTR",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 138,
+    "hisseAdi": "DENGE",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 145,
+    "hisseAdi": "DERHL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 144,
+    "hisseAdi": "DERIM",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 146,
+    "hisseAdi": "DESA",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 147,
+    "hisseAdi": "DESPC",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 149,
+    "hisseAdi": "DEVA",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 135,
+    "hisseAdi": "DGATE",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 161,
+    "hisseAdi": "DGGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 158,
+    "hisseAdi": "DGNMO",
+    "firmaSektorBilgisi": "Orman Ürünleri ve Mobilya",
+    "firmaSektorleri": "Orman Ürünleri ve Mobilya"
+  },
+  {
+    "firmaId": 151,
+    "hisseAdi": "DIRIT",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 152,
+    "hisseAdi": "DITAS",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1131,
+    "hisseAdi": "DMRGD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 137,
+    "hisseAdi": "DMSAS",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 150,
+    "hisseAdi": "DNISI",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 162,
+    "hisseAdi": "DOAS",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 153,
+    "hisseAdi": "DOCO",
+    "firmaSektorBilgisi": "Yiyecek ve İçecek Hizmetleri",
+    "firmaSektorleri": "Yiyecek ve İçecek Hizmetleri"
+  },
+  {
+    "firmaId": 1135,
+    "hisseAdi": "DOFER",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 1246,
+    "hisseAdi": "DOFRB",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 160,
+    "hisseAdi": "DOGUB",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 156,
+    "hisseAdi": "DOHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 164,
+    "hisseAdi": "DOKTA",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 1224,
+    "hisseAdi": "DSTKF",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 1251,
+    "hisseAdi": "DUNYH",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 165,
+    "hisseAdi": "DURDO",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 1200,
+    "hisseAdi": "DURKN",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 167,
+    "hisseAdi": "DYOBY",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 141,
+    "hisseAdi": "DZGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1125,
+    "hisseAdi": "EBEBK",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 176,
+    "hisseAdi": "ECILC",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1255,
+    "hisseAdi": "ECOGR",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 168,
+    "hisseAdi": "ECZYT",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 169,
+    "hisseAdi": "EDATA",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 170,
+    "hisseAdi": "EDIP",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 1257,
+    "hisseAdi": "EFOR",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 171,
+    "hisseAdi": "EGEEN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1217,
+    "hisseAdi": "EGEGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 383,
+    "hisseAdi": "EGEPO",
+    "firmaSektorBilgisi": "İnsan Sağlığı ve Sosyal Hizmetler",
+    "firmaSektorleri": "İnsan Sağlığı ve Sosyal Hizmetler"
+  },
+  {
+    "firmaId": 172,
+    "hisseAdi": "EGGUB",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 173,
+    "hisseAdi": "EGPRO",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 174,
+    "hisseAdi": "EGSER",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 184,
+    "hisseAdi": "EKGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 177,
+    "hisseAdi": "EKIZ",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1147,
+    "hisseAdi": "EKOS",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1090,
+    "hisseAdi": "EKSUN",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 179,
+    "hisseAdi": "ELITE",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 180,
+    "hisseAdi": "EMKEL",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 181,
+    "hisseAdi": "EMNIS",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1227,
+    "hisseAdi": "ENDAE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 1122,
+    "hisseAdi": "ENERY",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 186,
+    "hisseAdi": "ENJSA",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 187,
+    "hisseAdi": "ENKAI",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 188,
+    "hisseAdi": "ENSRI",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1169,
+    "hisseAdi": "ENTRA",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 175,
+    "hisseAdi": "EPLAS",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 189,
+    "hisseAdi": "ERBOS",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 190,
+    "hisseAdi": "ERCB",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 191,
+    "hisseAdi": "EREGL",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 195,
+    "hisseAdi": "ERSU",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 196,
+    "hisseAdi": "ESCAR",
+    "firmaSektorBilgisi": "Kiralama ve Leasing Faaliyetleri",
+    "firmaSektorleri": "Kiralama ve Leasing Faaliyetleri"
+  },
+  {
+    "firmaId": 197,
+    "hisseAdi": "ESCOM",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 198,
+    "hisseAdi": "ESEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 199,
+    "hisseAdi": "ETILR",
+    "firmaSektorBilgisi": "Yiyecek ve İçecek Hizmetleri",
+    "firmaSektorleri": "Yiyecek ve İçecek Hizmetleri"
+  },
+  {
+    "firmaId": 202,
+    "hisseAdi": "ETYAT",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 203,
+    "hisseAdi": "EUHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 200,
+    "hisseAdi": "EUKYO",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1093,
+    "hisseAdi": "EUPWR",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 205,
+    "hisseAdi": "EUREN",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 201,
+    "hisseAdi": "EUYO",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1080,
+    "hisseAdi": "EYGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 206,
+    "hisseAdi": "FADE",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 209,
+    "hisseAdi": "FENER",
+    "firmaSektorBilgisi": "Spor",
+    "firmaSektorleri": "Spor"
+  },
+  {
+    "firmaId": 212,
+    "hisseAdi": "FLAP",
+    "firmaSektorBilgisi": "Büro Yönetimi, Büro Desteği Faaliyetleri",
+    "firmaSektorleri": "Büro Yönetimi, Büro Desteği Faaliyetleri"
+  },
+  {
+    "firmaId": 208,
+    "hisseAdi": "FMIZP",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 213,
+    "hisseAdi": "FONET",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 215,
+    "hisseAdi": "FORMT",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1100,
+    "hisseAdi": "FORTE",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 216,
+    "hisseAdi": "FRIGO",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 214,
+    "hisseAdi": "FROTO",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1111,
+    "hisseAdi": "FZLGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 537,
+    "hisseAdi": "GARAN",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 220,
+    "hisseAdi": "GARFA",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 224,
+    "hisseAdi": "GEDIK",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 225,
+    "hisseAdi": "GEDZA",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 227,
+    "hisseAdi": "GENIL",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 228,
+    "hisseAdi": "GENTS",
+    "firmaSektorBilgisi": "Orman Ürünleri ve Mobilya",
+    "firmaSektorleri": "Orman Ürünleri ve Mobilya"
+  },
+  {
+    "firmaId": 229,
+    "hisseAdi": "GEREL",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 232,
+    "hisseAdi": "GESAN",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 1127,
+    "hisseAdi": "GIPTA",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 233,
+    "hisseAdi": "GLBMD",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 226,
+    "hisseAdi": "GLCVY",
+    "firmaSektorBilgisi": "Varlık Yönetim Şirketleri",
+    "firmaSektorleri": "Varlık Yönetim Şirketleri"
+  },
+  {
+    "firmaId": 1218,
+    "hisseAdi": "GLRMK",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 243,
+    "hisseAdi": "GLRYH",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 234,
+    "hisseAdi": "GLYHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 231,
+    "hisseAdi": "GMTAS",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 1088,
+    "hisseAdi": "GOKNR",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 238,
+    "hisseAdi": "GOLTS",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 237,
+    "hisseAdi": "GOODY",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 239,
+    "hisseAdi": "GOZDE",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 223,
+    "hisseAdi": "GRNYO",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 244,
+    "hisseAdi": "GRSEL",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 1203,
+    "hisseAdi": "GRTHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 240,
+    "hisseAdi": "GSDDE",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 241,
+    "hisseAdi": "GSDHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 218,
+    "hisseAdi": "GSRAY",
+    "firmaSektorBilgisi": "Spor",
+    "firmaSektorleri": "Spor"
+  },
+  {
+    "firmaId": 242,
+    "hisseAdi": "GUBRF",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1195,
+    "hisseAdi": "GUNDG",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 217,
+    "hisseAdi": "GWIND",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 230,
+    "hisseAdi": "GZNMI",
+    "firmaSektorBilgisi": "Seyahat Acentesi, Tur Operatörü",
+    "firmaSektorleri": "Seyahat Acentesi, Tur Operatörü"
+  },
+  {
+    "firmaId": 538,
+    "hisseAdi": "HALKB",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 250,
+    "hisseAdi": "HATEK",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1129,
+    "hisseAdi": "HATSN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 252,
+    "hisseAdi": "HDFGS",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 253,
+    "hisseAdi": "HEDEF",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 254,
+    "hisseAdi": "HEKTS",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 255,
+    "hisseAdi": "HKTM",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 247,
+    "hisseAdi": "HLGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1182,
+    "hisseAdi": "HOROZ",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 1178,
+    "hisseAdi": "HRKET",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 256,
+    "hisseAdi": "HTTBT",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 258,
+    "hisseAdi": "HUBVC",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 259,
+    "hisseAdi": "HUNER",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 261,
+    "hisseAdi": "HURGZ",
+    "firmaSektorBilgisi": "Yayıncılık",
+    "firmaSektorleri": "Yayıncılık"
+  },
+  {
+    "firmaId": 262,
+    "hisseAdi": "ICBCT",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 1104,
+    "hisseAdi": "ICUGS",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 269,
+    "hisseAdi": "IDGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 267,
+    "hisseAdi": "IEYHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 273,
+    "hisseAdi": "IHAAS",
+    "firmaSektorBilgisi": "Bilgi Hizmet Faaliyetleri",
+    "firmaSektorleri": "Bilgi Hizmet Faaliyetleri"
+  },
+  {
+    "firmaId": 270,
+    "hisseAdi": "IHEVA",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 272,
+    "hisseAdi": "IHGZT",
+    "firmaSektorBilgisi": "Yayıncılık",
+    "firmaSektorleri": "Yayıncılık"
+  },
+  {
+    "firmaId": 274,
+    "hisseAdi": "IHLAS",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 271,
+    "hisseAdi": "IHLGM",
+    "firmaSektorBilgisi": "Gayrimenkul Faaliyetleri",
+    "firmaSektorleri": "Gayrimenkul Faaliyetleri"
+  },
+  {
+    "firmaId": 275,
+    "hisseAdi": "IHYAY",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 276,
+    "hisseAdi": "IMASM",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 278,
+    "hisseAdi": "INDES",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 279,
+    "hisseAdi": "INFO",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 1099,
+    "hisseAdi": "INGRM",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1191,
+    "hisseAdi": "INTEK",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 280,
+    "hisseAdi": "INTEM",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 264,
+    "hisseAdi": "INVEO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 265,
+    "hisseAdi": "INVES",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 290,
+    "hisseAdi": "ISBIR",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 542,
+    "hisseAdi": "ISCTR",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 282,
+    "hisseAdi": "ISDMR",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 285,
+    "hisseAdi": "ISFIN",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 287,
+    "hisseAdi": "ISGSY",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 286,
+    "hisseAdi": "ISGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 266,
+    "hisseAdi": "ISKPL",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 288,
+    "hisseAdi": "ISMEN",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 291,
+    "hisseAdi": "ISSEN",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 289,
+    "hisseAdi": "ISYAT",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1118,
+    "hisseAdi": "IZENR",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 295,
+    "hisseAdi": "IZFAS",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 293,
+    "hisseAdi": "IZINV",
+    "firmaSektorBilgisi": "Tarım ve Hayvancılık, Avcılık",
+    "firmaSektorleri": "Tarım ve Hayvancılık, Avcılık"
+  },
+  {
+    "firmaId": 294,
+    "hisseAdi": "IZMDC",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 296,
+    "hisseAdi": "JANTS",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 300,
+    "hisseAdi": "KAPLM",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 304,
+    "hisseAdi": "KAREL",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 305,
+    "hisseAdi": "KARSN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 308,
+    "hisseAdi": "KARTN",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 310,
+    "hisseAdi": "KATMR",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1098,
+    "hisseAdi": "KAYSE",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1153,
+    "hisseAdi": "KBORU",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 321,
+    "hisseAdi": "KCAER",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 324,
+    "hisseAdi": "KCHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 312,
+    "hisseAdi": "KENT",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 315,
+    "hisseAdi": "KERVN",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 297,
+    "hisseAdi": "KFEIN",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 330,
+    "hisseAdi": "KGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 194,
+    "hisseAdi": "KIMMR",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 317,
+    "hisseAdi": "KLGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 298,
+    "hisseAdi": "KLKIM",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 320,
+    "hisseAdi": "KLMSN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 545,
+    "hisseAdi": "KLNMA",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 318,
+    "hisseAdi": "KLRHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1110,
+    "hisseAdi": "KLSER",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 325,
+    "hisseAdi": "KLSYN",
+    "firmaSektorBilgisi": "Orman Ürünleri ve Mobilya",
+    "firmaSektorleri": "Orman Ürünleri ve Mobilya"
+  },
+  {
+    "firmaId": 1226,
+    "hisseAdi": "KLYPV",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 319,
+    "hisseAdi": "KMPUR",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 326,
+    "hisseAdi": "KNFRT",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1177,
+    "hisseAdi": "KOCMT",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 329,
+    "hisseAdi": "KONKA",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 327,
+    "hisseAdi": "KONTR",
+    "firmaSektorBilgisi": "Mimarlık ve Mühendislik Faaliyetleri",
+    "firmaSektorleri": "Mimarlık ve Mühendislik Faaliyetleri"
+  },
+  {
+    "firmaId": 328,
+    "hisseAdi": "KONYA",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 1091,
+    "hisseAdi": "KOPOL",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 331,
+    "hisseAdi": "KORDS",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1175,
+    "hisseAdi": "KOTON",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 301,
+    "hisseAdi": "KRDMA",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 302,
+    "hisseAdi": "KRDMB",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 303,
+    "hisseAdi": "KRDMD",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 336,
+    "hisseAdi": "KRGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 338,
+    "hisseAdi": "KRONT",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 332,
+    "hisseAdi": "KRPLS",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 337,
+    "hisseAdi": "KRSTL",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 306,
+    "hisseAdi": "KRTEK",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 314,
+    "hisseAdi": "KRVGD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 340,
+    "hisseAdi": "KSTUR",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 1101,
+    "hisseAdi": "KTLEV",
+    "firmaSektorBilgisi": "Finansman Şirketleri",
+    "firmaSektorleri": "Finansman Şirketleri"
+  },
+  {
+    "firmaId": 344,
+    "hisseAdi": "KTSKR",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 343,
+    "hisseAdi": "KUTPO",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 341,
+    "hisseAdi": "KUVVA",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 342,
+    "hisseAdi": "KUYAS",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 316,
+    "hisseAdi": "KZBGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1123,
+    "hisseAdi": "KZGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 345,
+    "hisseAdi": "LIDER",
+    "firmaSektorBilgisi": "Kiralama ve Leasing Faaliyetleri",
+    "firmaSektorleri": "Kiralama ve Leasing Faaliyetleri"
+  },
+  {
+    "firmaId": 346,
+    "hisseAdi": "LIDFA",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 1174,
+    "hisseAdi": "LILAK",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 347,
+    "hisseAdi": "LINK",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 349,
+    "hisseAdi": "LKMNH",
+    "firmaSektorBilgisi": "İnsan Sağlığı ve Sosyal Hizmetler",
+    "firmaSektorleri": "İnsan Sağlığı ve Sosyal Hizmetler"
+  },
+  {
+    "firmaId": 1162,
+    "hisseAdi": "LMKDC",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 348,
+    "hisseAdi": "LOGO",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1141,
+    "hisseAdi": "LRSHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 350,
+    "hisseAdi": "LUKSK",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1192,
+    "hisseAdi": "LYDHO",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 1204,
+    "hisseAdi": "LYDYE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 357,
+    "hisseAdi": "MAALT",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 1086,
+    "hisseAdi": "MACKO",
+    "firmaSektorBilgisi": "Spor",
+    "firmaSektorleri": "Spor"
+  },
+  {
+    "firmaId": 355,
+    "hisseAdi": "MAGEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 351,
+    "hisseAdi": "MAKIM",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 352,
+    "hisseAdi": "MAKTK",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 353,
+    "hisseAdi": "MANAS",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1142,
+    "hisseAdi": "MARBL",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 356,
+    "hisseAdi": "MARKA",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1249,
+    "hisseAdi": "MARMR",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 360,
+    "hisseAdi": "MARTI",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 362,
+    "hisseAdi": "MAVI",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 364,
+    "hisseAdi": "MEDTR",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 365,
+    "hisseAdi": "MEGAP",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1152,
+    "hisseAdi": "MEGMT",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 1132,
+    "hisseAdi": "MEKAG",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 367,
+    "hisseAdi": "MEPET",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 368,
+    "hisseAdi": "MERCN",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 370,
+    "hisseAdi": "MERIT",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 371,
+    "hisseAdi": "MERKO",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 373,
+    "hisseAdi": "METRO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 376,
+    "hisseAdi": "MGROS",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 1137,
+    "hisseAdi": "MHRGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 375,
+    "hisseAdi": "MIATK",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 380,
+    "hisseAdi": "MMCAS",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 366,
+    "hisseAdi": "MNDRS",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 382,
+    "hisseAdi": "MNDTR",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 381,
+    "hisseAdi": "MOBTL",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1166,
+    "hisseAdi": "MOGAN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 1220,
+    "hisseAdi": "MOPAS",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 379,
+    "hisseAdi": "MPARK",
+    "firmaSektorBilgisi": "İnsan Sağlığı ve Sosyal Hizmetler",
+    "firmaSektorleri": "İnsan Sağlığı ve Sosyal Hizmetler"
+  },
+  {
+    "firmaId": 359,
+    "hisseAdi": "MRGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 358,
+    "hisseAdi": "MRSHL",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 378,
+    "hisseAdi": "MSGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 361,
+    "hisseAdi": "MTRKS",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 374,
+    "hisseAdi": "MTRYO",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 363,
+    "hisseAdi": "MZHLD",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 384,
+    "hisseAdi": "NATEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 387,
+    "hisseAdi": "NETAS",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 388,
+    "hisseAdi": "NIBAS",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 385,
+    "hisseAdi": "NTGAZ",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 386,
+    "hisseAdi": "NTHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 390,
+    "hisseAdi": "NUGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 389,
+    "hisseAdi": "NUHCM",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 1164,
+    "hisseAdi": "OBAMS",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 395,
+    "hisseAdi": "OBASE",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 396,
+    "hisseAdi": "ODAS",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 1168,
+    "hisseAdi": "ODINE",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1119,
+    "hisseAdi": "OFSYM",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1081,
+    "hisseAdi": "ONCSM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1179,
+    "hisseAdi": "ONRYT",
+    "firmaSektorBilgisi": "Savunma",
+    "firmaSektorleri": "Savunma"
+  },
+  {
+    "firmaId": 399,
+    "hisseAdi": "ORCAY",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 401,
+    "hisseAdi": "ORGE",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 402,
+    "hisseAdi": "ORMA",
+    "firmaSektorBilgisi": "Orman Ürünleri ve Mobilya",
+    "firmaSektorleri": "Orman Ürünleri ve Mobilya"
+  },
+  {
+    "firmaId": 403,
+    "hisseAdi": "OSMEN",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 404,
+    "hisseAdi": "OSTIM",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 405,
+    "hisseAdi": "OTKAR",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 407,
+    "hisseAdi": "OTTO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 408,
+    "hisseAdi": "OYAKC",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 410,
+    "hisseAdi": "OYAYO",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 411,
+    "hisseAdi": "OYLUM",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 409,
+    "hisseAdi": "OYYAT",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 1197,
+    "hisseAdi": "OZATD",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 413,
+    "hisseAdi": "OZGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 412,
+    "hisseAdi": "OZKGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 414,
+    "hisseAdi": "OZRDN",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 415,
+    "hisseAdi": "OZSUB",
+    "firmaSektorBilgisi": "Balıkçılık ve Su Ürünleri",
+    "firmaSektorleri": "Balıkçılık ve Su Ürünleri"
+  },
+  {
+    "firmaId": 1180,
+    "hisseAdi": "OZYSR",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 420,
+    "hisseAdi": "PAGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1258,
+    "hisseAdi": "PAHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 418,
+    "hisseAdi": "PAMEL",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 421,
+    "hisseAdi": "PAPIL",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 424,
+    "hisseAdi": "PARSN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1103,
+    "hisseAdi": "PASEU",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 1161,
+    "hisseAdi": "PATEK",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 427,
+    "hisseAdi": "PCILT",
+    "firmaSektorBilgisi": "Reklamcılık ve Pazar Araştırması",
+    "firmaSektorleri": "Reklamcılık ve Pazar Araştırması"
+  },
+  {
+    "firmaId": 429,
+    "hisseAdi": "PEKGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 430,
+    "hisseAdi": "PENGD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 431,
+    "hisseAdi": "PENTA",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 434,
+    "hisseAdi": "PETKM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 437,
+    "hisseAdi": "PETUN",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 428,
+    "hisseAdi": "PGSUS",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 438,
+    "hisseAdi": "PINSU",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 440,
+    "hisseAdi": "PKART",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 435,
+    "hisseAdi": "PKENT",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 441,
+    "hisseAdi": "PLTUR",
+    "firmaSektorBilgisi": "Kiralama ve Leasing Faaliyetleri",
+    "firmaSektorleri": "Kiralama ve Leasing Faaliyetleri"
+  },
+  {
+    "firmaId": 419,
+    "hisseAdi": "PNLSN",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 439,
+    "hisseAdi": "PNSUT",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 442,
+    "hisseAdi": "POLHO",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 443,
+    "hisseAdi": "POLTK",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 422,
+    "hisseAdi": "PRDGS",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 532,
+    "hisseAdi": "PRKAB",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 423,
+    "hisseAdi": "PRKME",
+    "firmaSektorBilgisi": "Kömür ve Linyit Madenciliği",
+    "firmaSektorleri": "Kömür ve Linyit Madenciliği"
+  },
+  {
+    "firmaId": 444,
+    "hisseAdi": "PRZMA",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 433,
+    "hisseAdi": "PSDTC",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 426,
+    "hisseAdi": "PSGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1208,
+    "hisseAdi": "QNBFK",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 450,
+    "hisseAdi": "QUAGR",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 452,
+    "hisseAdi": "RALYH",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 453,
+    "hisseAdi": "RAYSG",
+    "firmaSektorBilgisi": "Sigorta Şirketleri",
+    "firmaSektorleri": "Sigorta Şirketleri"
+  },
+  {
+    "firmaId": 1128,
+    "hisseAdi": "REEDR",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 1173,
+    "hisseAdi": "RGYAS",
+    "firmaSektorBilgisi": "Gayrimenkul Faaliyetleri",
+    "firmaSektorleri": "Gayrimenkul Faaliyetleri"
+  },
+  {
+    "firmaId": 451,
+    "hisseAdi": "RNPOL",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 457,
+    "hisseAdi": "RODRG",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 458,
+    "hisseAdi": "ROYAL",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 459,
+    "hisseAdi": "RTALB",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 460,
+    "hisseAdi": "RUBNS",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1230,
+    "hisseAdi": "RUZYE",
+    "firmaSektorBilgisi": "Kömür ve Linyit Madenciliği",
+    "firmaSektorleri": "Kömür ve Linyit Madenciliği"
+  },
+  {
+    "firmaId": 454,
+    "hisseAdi": "RYGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 455,
+    "hisseAdi": "RYSAS",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 461,
+    "hisseAdi": "SAFKR",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 245,
+    "hisseAdi": "SAHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 466,
+    "hisseAdi": "SAMAT",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 462,
+    "hisseAdi": "SANEL",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 464,
+    "hisseAdi": "SANFM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 465,
+    "hisseAdi": "SANKO",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 467,
+    "hisseAdi": "SARKY",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 469,
+    "hisseAdi": "SASA",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 470,
+    "hisseAdi": "SAYAS",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1082,
+    "hisseAdi": "SDTTR",
+    "firmaSektorBilgisi": "Savunma",
+    "firmaSektorleri": "Savunma"
+  },
+  {
+    "firmaId": 1184,
+    "hisseAdi": "SEGMN",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 494,
+    "hisseAdi": "SEGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 493,
+    "hisseAdi": "SEKFK",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 471,
+    "hisseAdi": "SEKUR",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 472,
+    "hisseAdi": "SELEC",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 474,
+    "hisseAdi": "SELVA",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 1222,
+    "hisseAdi": "SERNT",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 477,
+    "hisseAdi": "SEYKM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 478,
+    "hisseAdi": "SILVR",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 548,
+    "hisseAdi": "SISE",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 496,
+    "hisseAdi": "SKBNK",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 483,
+    "hisseAdi": "SKTAS",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1167,
+    "hisseAdi": "SKYLP",
+    "firmaSektorBilgisi": "Hukuk ve Muhasebe Faaliyetleri",
+    "firmaSektorleri": "Hukuk ve Muhasebe Faaliyetleri"
+  },
+  {
+    "firmaId": 1151,
+    "hisseAdi": "SKYMD",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 481,
+    "hisseAdi": "SMART",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 480,
+    "hisseAdi": "SMRTG",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 479,
+    "hisseAdi": "SNGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 463,
+    "hisseAdi": "SNICA",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 475,
+    "hisseAdi": "SNKRN",
+    "firmaSektorBilgisi": "Güvenlik ve Soruşturma Faaliyetleri",
+    "firmaSektorleri": "Güvenlik ve Soruşturma Faaliyetleri"
+  },
+  {
+    "firmaId": 485,
+    "hisseAdi": "SNPAM",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 482,
+    "hisseAdi": "SODSN",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1084,
+    "hisseAdi": "SOKE",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 497,
+    "hisseAdi": "SOKM",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 484,
+    "hisseAdi": "SONME",
+    "firmaSektorBilgisi": "Gayrimenkul Faaliyetleri",
+    "firmaSektorleri": "Gayrimenkul Faaliyetleri"
+  },
+  {
+    "firmaId": 476,
+    "hisseAdi": "SRVGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 486,
+    "hisseAdi": "SUMAS",
+    "firmaSektorBilgisi": "Orman Ürünleri ve Mobilya",
+    "firmaSektorleri": "Orman Ürünleri ve Mobilya"
+  },
+  {
+    "firmaId": 487,
+    "hisseAdi": "SUNTK",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 1154,
+    "hisseAdi": "SURGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 488,
+    "hisseAdi": "SUWEN",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 1139,
+    "hisseAdi": "TABGD",
+    "firmaSektorBilgisi": "Yiyecek ve İçecek Hizmetleri",
+    "firmaSektorleri": "Yiyecek ve İçecek Hizmetleri"
+  },
+  {
+    "firmaId": 1126,
+    "hisseAdi": "TARKM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1120,
+    "hisseAdi": "TATEN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 501,
+    "hisseAdi": "TATGD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 502,
+    "hisseAdi": "TAVHL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 535,
+    "hisseAdi": "TBORG",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 526,
+    "hisseAdi": "TCELL",
+    "firmaSektorBilgisi": "Telekomünikasyon",
+    "firmaSektorleri": "Telekomünikasyon"
+  },
+  {
+    "firmaId": 1194,
+    "hisseAdi": "TCKRC",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 517,
+    "hisseAdi": "TDGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1239,
+    "hisseAdi": "TEHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 505,
+    "hisseAdi": "TEKTU",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 509,
+    "hisseAdi": "TERA",
+    "firmaSektorBilgisi": "Aracı Kurumlar",
+    "firmaSektorleri": "Aracı Kurumlar"
+  },
+  {
+    "firmaId": 204,
+    "hisseAdi": "TEZOL",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 512,
+    "hisseAdi": "TGSAS",
+    "firmaSektorBilgisi": "Toptan Ticaret",
+    "firmaSektorleri": "Toptan Ticaret"
+  },
+  {
+    "firmaId": 531,
+    "hisseAdi": "THYAO",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 506,
+    "hisseAdi": "TKFEN",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 507,
+    "hisseAdi": "TKNSA",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 515,
+    "hisseAdi": "TLMAN",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 508,
+    "hisseAdi": "TMPOL",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 528,
+    "hisseAdi": "TMSN",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1083,
+    "hisseAdi": "TNZTP",
+    "firmaSektorBilgisi": "İnsan Sağlığı ve Sosyal Hizmetler",
+    "firmaSektorleri": "İnsan Sağlığı ve Sosyal Hizmetler"
+  },
+  {
+    "firmaId": 513,
+    "hisseAdi": "TOASO",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 1261,
+    "hisseAdi": "TRALT",
+    "firmaSektorBilgisi": "Metal Cevheri Madenciliği",
+    "firmaSektorleri": "Metal Cevheri Madenciliği"
+  },
+  {
+    "firmaId": 522,
+    "hisseAdi": "TRCAS",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1259,
+    "hisseAdi": "TRENJ",
+    "firmaSektorBilgisi": "Petrol ve Doğalgaz",
+    "firmaSektorleri": "Petrol ve Doğalgaz"
+  },
+  {
+    "firmaId": 514,
+    "hisseAdi": "TRGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1243,
+    "hisseAdi": "TRHOL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 524,
+    "hisseAdi": "TRILC",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 1260,
+    "hisseAdi": "TRMET",
+    "firmaSektorBilgisi": "Metal Cevheri Madenciliği",
+    "firmaSektorleri": "Metal Cevheri Madenciliği"
+  },
+  {
+    "firmaId": 519,
+    "hisseAdi": "TSGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 547,
+    "hisseAdi": "TSKB",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 516,
+    "hisseAdi": "TSPOR",
+    "firmaSektorBilgisi": "Spor",
+    "firmaSektorleri": "Spor"
+  },
+  {
+    "firmaId": 533,
+    "hisseAdi": "TTKOM",
+    "firmaSektorBilgisi": "Telekomünikasyon",
+    "firmaSektorleri": "Telekomünikasyon"
+  },
+  {
+    "firmaId": 534,
+    "hisseAdi": "TTRAK",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 520,
+    "hisseAdi": "TUCLK",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 521,
+    "hisseAdi": "TUKAS",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 529,
+    "hisseAdi": "TUPRS",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
+    "firmaId": 523,
+    "hisseAdi": "TUREX",
+    "firmaSektorBilgisi": "Ulaştırma ve Depolama",
+    "firmaSektorleri": "Ulaştırma ve Depolama"
+  },
+  {
+    "firmaId": 536,
+    "hisseAdi": "TURGG",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 546,
+    "hisseAdi": "TURSG",
+    "firmaSektorBilgisi": "Sigorta Şirketleri",
+    "firmaSektorleri": "Sigorta Şirketleri"
+  },
+  {
+    "firmaId": 550,
+    "hisseAdi": "UFUK",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 551,
+    "hisseAdi": "ULAS",
+    "firmaSektorBilgisi": "Konaklama",
+    "firmaSektorleri": "Konaklama"
+  },
+  {
+    "firmaId": 552,
+    "hisseAdi": "ULKER",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 553,
+    "hisseAdi": "ULUFA",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 554,
+    "hisseAdi": "ULUSE",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 555,
+    "hisseAdi": "ULUUN",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 556,
+    "hisseAdi": "UMPAS",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 558,
+    "hisseAdi": "UNLU",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 559,
+    "hisseAdi": "USAK",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 549,
+    "hisseAdi": "VAKBN",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 561,
+    "hisseAdi": "VAKFA",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 562,
+    "hisseAdi": "VAKFN",
+    "firmaSektorBilgisi": "Finansal Kiralama ve Faktoring Şirketleri",
+    "firmaSektorleri": "Finansal Kiralama ve Faktoring Şirketleri"
+  },
+  {
+    "firmaId": 566,
+    "hisseAdi": "VAKKO",
+    "firmaSektorBilgisi": "Perakende Ticaret",
+    "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 567,
+    "hisseAdi": "VANGD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 568,
+    "hisseAdi": "VBTYZ",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
+    "firmaId": 570,
+    "hisseAdi": "VERTU",
+    "firmaSektorBilgisi": "Girişim Sermayesi Yatırım Ortaklıkları",
+    "firmaSektorleri": "Girişim Sermayesi Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 569,
+    "hisseAdi": "VERUS",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 571,
+    "hisseAdi": "VESBE",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 572,
+    "hisseAdi": "VESTL",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 564,
+    "hisseAdi": "VKFYO",
+    "firmaSektorBilgisi": "Menkul Kıymet Yatırım Ortaklıkları",
+    "firmaSektorleri": "Menkul Kıymet Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 563,
+    "hisseAdi": "VKGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 573,
+    "hisseAdi": "VKING",
+    "firmaSektorBilgisi": "Kağıt ve Kağıt Ürünleri Basım",
+    "firmaSektorleri": "Kağıt ve Kağıt Ürünleri Basım"
+  },
+  {
+    "firmaId": 1138,
+    "hisseAdi": "VRGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1225,
+    "hisseAdi": "VSNMD",
+    "firmaSektorBilgisi": "Madencilik ve Taş Ocakçılığı",
+    "firmaSektorleri": "Madencilik ve Taş Ocakçılığı"
+  },
+  {
+    "firmaId": 578,
+    "hisseAdi": "YAPRK",
+    "firmaSektorBilgisi": "Tarım ve Hayvancılık, Avcılık",
+    "firmaSektorleri": "Tarım ve Hayvancılık, Avcılık"
+  },
+  {
+    "firmaId": 579,
+    "hisseAdi": "YATAS",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 583,
+    "hisseAdi": "YAYLA",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 589,
+    "hisseAdi": "YBTAS",
+    "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
+    "firmaSektorleri": "Taş ve Toprağa Dayalı"
+  },
+  {
+    "firmaId": 585,
+    "hisseAdi": "YEOTK",
+    "firmaSektorBilgisi": "Mimarlık ve Mühendislik Faaliyetleri",
+    "firmaSektorleri": "Mimarlık ve Mühendislik Faaliyetleri"
+  },
+  {
+    "firmaId": 588,
+    "hisseAdi": "YESIL",
+    "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
+    "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 584,
+    "hisseAdi": "YGGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 586,
+    "hisseAdi": "YGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  },
+  {
+    "firmaId": 1181,
+    "hisseAdi": "YIGIT",
+    "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
+    "firmaSektorleri": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları"
+  },
+  {
+    "firmaId": 577,
+    "hisseAdi": "YKBNK",
+    "firmaSektorBilgisi": "Bankalar",
+    "firmaSektorleri": "Bankalar"
+  },
+  {
+    "firmaId": 591,
+    "hisseAdi": "YKSLN",
+    "firmaSektorBilgisi": "Ana Metal Sanayi",
+    "firmaSektorleri": "Ana Metal Sanayi"
+  },
+  {
+    "firmaId": 590,
+    "hisseAdi": "YONGA",
+    "firmaSektorBilgisi": "Orman Ürünleri ve Mobilya",
+    "firmaSektorleri": "Orman Ürünleri ve Mobilya"
+  },
+  {
+    "firmaId": 592,
+    "hisseAdi": "YUNSA",
+    "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",
+    "firmaSektorleri": "Tekstil, Giyim Eşyası ve Deri"
+  },
+  {
+    "firmaId": 587,
+    "hisseAdi": "YYAPI",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 582,
+    "hisseAdi": "YYLGD",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
+    "firmaId": 593,
+    "hisseAdi": "ZEDUR",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 597,
+    "hisseAdi": "ZOREN",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 594,
+    "hisseAdi": "ZRGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
+  }
+]

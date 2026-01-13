@@ -276,6 +276,12 @@
     "firmaSektorleri": "Bilişim"
   },
   {
+    "firmaId": 1268,
+    "hisseAdi": "ARFYE",
+    "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
+    "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
     "firmaId": 1216,
     "hisseAdi": "ARMGD",
     "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",

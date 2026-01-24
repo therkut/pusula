@@ -1344,6 +1344,12 @@
     "firmaSektorleri": "Gıda, İçecek ve Tütün"
   },
   {
+    "firmaId": 1271,
+    "hisseAdi": "FRMPL",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
     "firmaId": 214,
     "hisseAdi": "FROTO",
     "firmaSektorBilgisi": "Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları",
@@ -2284,6 +2290,12 @@
     "hisseAdi": "METRO",
     "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
     "firmaSektorleri": "Holdingler ve Yatırım Şirketleri"
+  },
+  {
+    "firmaId": 1270,
+    "hisseAdi": "MEYSU",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
   },
   {
     "firmaId": 376,
@@ -3294,6 +3306,12 @@
     "firmaSektorleri": "Sigorta Şirketleri"
   },
   {
+    "firmaId": 1273,
+    "hisseAdi": "UCAYM",
+    "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
+    "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
     "firmaId": 550,
     "hisseAdi": "UFUK",
     "firmaSektorBilgisi": "Holdingler ve Yatırım Şirketleri",
@@ -3532,6 +3550,12 @@
     "hisseAdi": "ZEDUR",
     "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
     "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 1272,
+    "hisseAdi": "ZGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
   },
   {
     "firmaId": 597,

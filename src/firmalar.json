@@ -126,6 +126,12 @@
     "firmaSektorleri": "Sigorta Şirketleri"
   },
   {
+    "firmaId": 1278,
+    "hisseAdi": "AKHAN",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
+  },
+  {
     "firmaId": 22,
     "hisseAdi": "AKMGY",
     "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
@@ -510,6 +516,12 @@
     "firmaSektorleri": "Gıda, İçecek ve Tütün"
   },
   {
+    "firmaId": 1277,
+    "hisseAdi": "BESTE",
+    "firmaSektorBilgisi": null,
+    "firmaSektorleri": null
+  },
+  {
     "firmaId": 87,
     "hisseAdi": "BEYAZ",
     "firmaSektorBilgisi": "Ulaştırma ve Depolama",
@@ -868,6 +880,12 @@
     "hisseAdi": "DAPGM",
     "firmaSektorBilgisi": "İnşaat ve Bayındırlık İşleri",
     "firmaSektorleri": "İnşaat ve Bayındırlık İşleri"
+  },
+  {
+    "firmaId": 134,
+    "hisseAdi": "DARDL",
+    "firmaSektorBilgisi": "Gıda, İçecek ve Tütün",
+    "firmaSektorleri": "Gıda, İçecek ve Tütün"
   },
   {
     "firmaId": 1189,
@@ -2406,6 +2424,12 @@
     "firmaSektorleri": "Bilişim"
   },
   {
+    "firmaId": 1276,
+    "hisseAdi": "NETCD",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
     "firmaId": 388,
     "hisseAdi": "NIBAS",
     "firmaSektorBilgisi": "Taş ve Toprağa Dayalı",
@@ -3544,6 +3568,12 @@
     "hisseAdi": "ZEDUR",
     "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",
     "firmaSektorleri": "Elektrik, Gaz ve Buhar"
+  },
+  {
+    "firmaId": 1264,
+    "hisseAdi": "ZERGY",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
   },
   {
     "firmaId": 1272,

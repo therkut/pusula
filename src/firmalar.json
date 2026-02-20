@@ -354,6 +354,12 @@
     "firmaSektorleri": "Bilişim"
   },
   {
+    "firmaId": 1279,
+    "hisseAdi": "ATATR",
+    "firmaSektorBilgisi": "Madencilik ve Taş Ocakçılığı",
+    "firmaSektorleri": "Madencilik ve Taş Ocakçılığı"
+  },
+  {
     "firmaId": 20,
     "hisseAdi": "ATEKS",
     "firmaSektorBilgisi": "Tekstil, Giyim Eşyası ve Deri",

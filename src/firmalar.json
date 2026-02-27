@@ -1182,6 +1182,12 @@
     "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
   },
   {
+    "firmaId": 1282,
+    "hisseAdi": "EMPAE",
+    "firmaSektorBilgisi": "Bilişim",
+    "firmaSektorleri": "Bilişim"
+  },
+  {
     "firmaId": 1227,
     "hisseAdi": "ENDAE",
     "firmaSektorBilgisi": "Elektrik, Gaz ve Buhar",

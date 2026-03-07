@@ -1422,6 +1422,12 @@
     "firmaSektorleri": "Toptan Ticaret"
   },
   {
+    "firmaId": 1284,
+    "hisseAdi": "GENKM",
+    "firmaSektorBilgisi": "Kimya, İlaç, Petrol, Lastik ve Plastik",
+    "firmaSektorleri": "Kimya, İlaç, Petrol, Lastik ve Plastik"
+  },
+  {
     "firmaId": 228,
     "hisseAdi": "GENTS",
     "firmaSektorBilgisi": "Orman Ürünleri ve Mobilya",
@@ -3094,6 +3100,12 @@
     "hisseAdi": "SUWEN",
     "firmaSektorBilgisi": "Perakende Ticaret",
     "firmaSektorleri": "Perakende Ticaret"
+  },
+  {
+    "firmaId": 1285,
+    "hisseAdi": "SVGYO",
+    "firmaSektorBilgisi": "Gayrimenkul Yatırım Ortaklıkları",
+    "firmaSektorleri": "Gayrimenkul Yatırım Ortaklıkları"
   },
   {
     "firmaId": 1139,

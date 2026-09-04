@@ -1,121 +1,55 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="utf-8">
-  <title>Sektör Ortalamaları</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      margin: 24px;
-      background-color: #f8fafc;
-      color: #1e293b;
-    }
-    h2 {
-      margin-bottom: 16px;
-      color: #0f172a;
-    }
-    .table-container {
-      overflow-x: auto;
-      background: #ffffff;
-      border-radius: 8px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-      border: 1px solid #e2e8f0;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 14px;
-      text-align: left;
-    }
-    th {
-      background-color: #f1f5f9;
-      color: #334155;
-      font-weight: 600;
-      padding: 10px 14px;
-      border-bottom: 2px solid #cbd5e1;
-      white-space: nowrap;
-    }
-    td {
-      padding: 8px 14px;
-      border-bottom: 1px solid #e2e8f0;
-    }
-    tr:nth-child(even) {
-      background-color: #f8fafc;
-    }
-    tr:hover {
-      background-color: #f1f5f9;
-    }
-    .num {
-      text-align: right;
-      font-variant-numeric: tabular-nums;
-    }
-  </style>
-</head>
+<html>
+<head><meta charset='utf-8'><title>Sektor Ortalamalari</title></head>
 <body>
-  <h2>Sektör Ortalamaları - 03-09-2026</h2>
-  <div class="table-container">
-    <table>
-      <thead>
-        <tr>
-          <th>Sektör Adı</th>
-          <th class="num">Sektör F/K Ortalaması</th>
-          <th class="num">Sektör PD/DD Ortalaması</th>
-          <th class="num">Sektör FD/FAVÖK Ortalaması</th>
-          <th class="num">Sektör PEG Ortalaması</th>
-          <th class="num">Sektör FD/FAVÖK Ortanca</th>
-          <th class="num">Sektör FK Ortanca</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td>Ana Metal Sanayi</td><td class="num">29.56</td><td class="num">4.63</td><td class="num">29.95</td><td class="num">0.22</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Aracı Kurumlar</td><td class="num">6.45</td><td class="num">2.28</td><td class="num">5.62</td><td class="num">0.37</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Balıkçılık ve Su Ürünleri</td><td class="num">8.82</td><td class="num">2.52</td><td class="num">6.29</td><td class="num">0.03</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Bankalar</td><td class="num">9.17</td><td class="num">2.01</td><td class="num">-</td><td class="num">-</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Bilgi Hizmet Faaliyetleri</td><td class="num">N/A</td><td class="num">39.95</td><td class="num">N/A</td><td class="num">N/A</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Bilişim</td><td class="num">19.82</td><td class="num">3.56</td><td class="num">15.63</td><td class="num">0.33</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Büro Yönetimi, Büro Desteği Faaliyetleri</td><td class="num">57.33</td><td class="num">1.52</td><td class="num">85.29</td><td class="num">5.81</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Elektrik, Gaz ve Buhar</td><td class="num">22.99</td><td class="num">1.52</td><td class="num">77.46</td><td class="num">0.68</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Finansal Kiralama ve Faktoring Şirketleri</td><td class="num">10.53</td><td class="num">3.31</td><td class="num">N/A</td><td class="num">N/A</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Finansman Şirketleri</td><td class="num">13.18</td><td class="num">9.24</td><td class="num">N/A</td><td class="num">N/A</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Gayrimenkul Faaliyetleri</td><td class="num">3.65</td><td class="num">1.14</td><td class="num">86.74</td><td class="num">0.10</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Gayrimenkul Yatırım Ortaklıkları</td><td class="num">14.15</td><td class="num">1.10</td><td class="num">60.63</td><td class="num">0.27</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Girişim Sermayesi Yatırım Ortaklıkları</td><td class="num">14.50</td><td class="num">1.21</td><td class="num">30.43</td><td class="num">0.46</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Güvenlik ve Soruşturma Faaliyetleri</td><td class="num">N/A</td><td class="num">55.29</td><td class="num">N/A</td><td class="num">N/A</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Gıda, İçecek ve Tütün</td><td class="num">19.35</td><td class="num">2.71</td><td class="num">53.28</td><td class="num">0.52</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Holdingler ve Yatırım Şirketleri</td><td class="num">23.72</td><td class="num">2.32</td><td class="num">546.61</td><td class="num">0.21</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Hukuk ve Muhasebe Faaliyetleri</td><td class="num">N/A</td><td class="num">12.20</td><td class="num">793.49</td><td class="num">0.93</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Kağıt ve Kağıt Ürünleri Basım</td><td class="num">31.69</td><td class="num">3.59</td><td class="num">27.36</td><td class="num">1.05</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Kimya, İlaç, Petrol, Lastik ve Plastik</td><td class="num">24.67</td><td class="num">4.70</td><td class="num">39.46</td><td class="num">1.45</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Kiralama ve Leasing Faaliyetleri</td><td class="num">24.79</td><td class="num">2.99</td><td class="num">45.71</td><td class="num">0.16</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Konaklama</td><td class="num">21.07</td><td class="num">1.39</td><td class="num">158.26</td><td class="num">0.30</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Kömür ve Linyit Madenciliği</td><td class="num">N/A</td><td class="num">1.33</td><td class="num">45.93</td><td class="num">2.55</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Madencilik ve Taş Ocakçılığı</td><td class="num">9.99</td><td class="num">3.71</td><td class="num">4.94</td><td class="num">0.25</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Menkul Kıymet Yatırım Ortaklıkları</td><td class="num">N/A</td><td class="num">6.02</td><td class="num">58.45</td><td class="num">0.47</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Metal Cevheri Madenciliği</td><td class="num">35.66</td><td class="num">3.18</td><td class="num">20.54</td><td class="num">0.13</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları</td><td class="num">30.20</td><td class="num">5.07</td><td class="num">37.95</td><td class="num">0.89</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Mimarlık ve Mühendislik Faaliyetleri</td><td class="num">11.11</td><td class="num">2.48</td><td class="num">31.82</td><td class="num">0.23</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Orman Ürünleri ve Mobilya</td><td class="num">38.22</td><td class="num">1.22</td><td class="num">11.59</td><td class="num">0.78</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Perakende Ticaret</td><td class="num">28.04</td><td class="num">4.41</td><td class="num">6.42</td><td class="num">0.13</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Petrol ve Doğalgaz</td><td class="num">40.35</td><td class="num">2.30</td><td class="num">2.19</td><td class="num">0.26</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Reklamcılık ve Pazar Araştırması</td><td class="num">9.87</td><td class="num">1.84</td><td class="num">5.65</td><td class="num">N/A</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Savunma</td><td class="num">71.82</td><td class="num">3.58</td><td class="num">31.90</td><td class="num">0.59</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Seyahat Acentesi, Tur Operatörü</td><td class="num">N/A</td><td class="num">3.10</td><td class="num">25.76</td><td class="num">0.55</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Sigorta Şirketleri</td><td class="num">6.60</td><td class="num">2.85</td><td class="num">-</td><td class="num">-</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Spor</td><td class="num">10.78</td><td class="num">2.30</td><td class="num">11.41</td><td class="num">0.14</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Tarım ve Hayvancılık, Avcılık</td><td class="num">N/A</td><td class="num">1.91</td><td class="num">767.42</td><td class="num">2.24</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Taş ve Toprağa Dayalı</td><td class="num">29.96</td><td class="num">3.68</td><td class="num">41.31</td><td class="num">1.77</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Tekstil, Giyim Eşyası ve Deri</td><td class="num">23.28</td><td class="num">1.53</td><td class="num">129.99</td><td class="num">0.23</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Telekomünikasyon</td><td class="num">11.52</td><td class="num">0.97</td><td class="num">2.85</td><td class="num">0.09</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Toptan Ticaret</td><td class="num">25.90</td><td class="num">4.82</td><td class="num">23.42</td><td class="num">0.45</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Ulaştırma ve Depolama</td><td class="num">21.53</td><td class="num">3.43</td><td class="num">79.12</td><td class="num">0.58</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Varlık Yönetim Şirketleri</td><td class="num">11.06</td><td class="num">3.15</td><td class="num">N/A</td><td class="num">N/A</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Yayıncılık</td><td class="num">5.12</td><td class="num">2.87</td><td class="num">113.43</td><td class="num">0.40</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>Yiyecek ve İçecek Hizmetleri</td><td class="num">54.79</td><td class="num">2.32</td><td class="num">6.63</td><td class="num">2.60</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>İmalat</td><td class="num">N/A</td><td class="num">7.05</td><td class="num">N/A</td><td class="num">0.01</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>İnsan Sağlığı ve Sosyal Hizmetler</td><td class="num">17.41</td><td class="num">1.69</td><td class="num">6.39</td><td class="num">N/A</td><td class="num">-</td><td class="num">-</td></tr>
-        <tr><td>İnşaat ve Bayındırlık İşleri</td><td class="num">15.05</td><td class="num">2.02</td><td class="num">20.52</td><td class="num">0.12</td><td class="num">-</td><td class="num">-</td></tr>
-      </tbody>
-    </table>
-  </div>
-</body>
-</html>
+<h2>Sektor Ortalamalari - 04-09-2026 10:13:55</h2>
+<table border='1' cellspacing='0' cellpadding='5'>
+<tr><th>Sektor Adi</th><th>Sektör FK Ortalaması</th><th>Sektör PD/DD Ortalaması</th><th>Sektör FD/FAVÖK Ortalaması</th><th>Sektör PEG Ortalaması</th></tr>
+<tr><td>Ana Metal Sanayi</td><td>25.74</td><td>3.27</td><td>11.60</td><td>0.43</td></tr>
+<tr><td>Aracı Kurumlar</td><td>5.45</td><td>1.50</td><td>8.16</td><td>0.19</td></tr>
+<tr><td>Balıkçılık ve Su Ürünleri</td><td>10.48</td><td>3.55</td><td>8.41</td><td>0.03</td></tr>
+<tr><td>Bankalar</td><td>15.01</td><td>4.63</td><td></td><td></td></tr>
+<tr><td>Bilgi Hizmet Faaliyetleri</td><td></td><td>26.47</td><td></td><td>3.09</td></tr>
+<tr><td>Bilişim</td><td>21.81</td><td>3.70</td><td>163.96</td><td>0.17</td></tr>
+<tr><td>Büro Yönetimi, Büro Desteği Faaliyetleri</td><td>13.98</td><td>1.39</td><td>1.31</td><td>0.04</td></tr>
+<tr><td>Elektrik, Gaz ve Buhar</td><td>24.39</td><td>1.98</td><td>126.80</td><td>1.49</td></tr>
+<tr><td>Finansal Kiralama ve Faktoring Şirketleri</td><td>18.31</td><td>4.72</td><td></td><td></td></tr>
+<tr><td>Finansman Şirketleri</td><td>11.20</td><td>9.37</td><td></td><td></td></tr>
+<tr><td>Gayrimenkul Faaliyetleri</td><td>20.17</td><td>0.82</td><td>82.15</td><td>0.04</td></tr>
+<tr><td>Gayrimenkul Yatırım Ortaklıkları</td><td>12.91</td><td>1.13</td><td>107.94</td><td>0.84</td></tr>
+<tr><td>Girişim Sermayesi Yatırım Ortaklıkları</td><td>7.41</td><td>0.93</td><td>74.82</td><td>0.01</td></tr>
+<tr><td>Güvenlik ve Soruşturma Faaliyetleri</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Gıda, İçecek ve Tütün</td><td>17.51</td><td>3.28</td><td>46.22</td><td>9.85</td></tr>
+<tr><td>Holdingler ve Yatırım Şirketleri</td><td>17.40</td><td>4.26</td><td>171.05</td><td>0.92</td></tr>
+<tr><td>Hukuk ve Muhasebe Faaliyetleri</td><td></td><td>7.45</td><td>123.85</td><td></td></tr>
+<tr><td>Kağıt ve Kağıt Ürünleri Basım</td><td>9.36</td><td>2.43</td><td>73.97</td><td>2.83</td></tr>
+<tr><td>Kimya, İlaç, Petrol, Lastik ve Plastik</td><td>33.06</td><td>3.67</td><td>78.62</td><td>0.31</td></tr>
+<tr><td>Kiralama ve Leasing Faaliyetleri</td><td>21.74</td><td>1.96</td><td>12.63</td><td>0.46</td></tr>
+<tr><td>Konaklama</td><td>11.80</td><td>2.24</td><td>53.11</td><td>0.38</td></tr>
+<tr><td>Kömür ve Linyit Madenciliği</td><td></td><td>0.91</td><td>39.32</td><td>0.04</td></tr>
+<tr><td>Madencilik ve Taş Ocakçılığı</td><td>11.93</td><td>1.57</td><td>21.65</td><td>0.21</td></tr>
+<tr><td>Menkul Kıymet Yatırım Ortaklıkları</td><td></td><td>5.89</td><td>39.87</td><td>0.77</td></tr>
+<tr><td>Metal Cevheri Madenciliği</td><td>27.99</td><td>2.03</td><td>13.85</td><td>0.33</td></tr>
+<tr><td>Metal Eşya Makine Elektrikli Cihaz Ulaşım Araçları</td><td>24.54</td><td>4.88</td><td>28.15</td><td>0.33</td></tr>
+<tr><td>Mimarlık ve Mühendislik Faaliyetleri</td><td>10.52</td><td>2.45</td><td>14.85</td><td>0.02</td></tr>
+<tr><td>Orman Ürünleri ve Mobilya</td><td>8.33</td><td>1.67</td><td>66.96</td><td>0.07</td></tr>
+<tr><td>Perakende Ticaret</td><td>13.80</td><td>1.84</td><td>7.70</td><td>1.74</td></tr>
+<tr><td>Petrol ve Doğalgaz</td><td>11.89</td><td>0.49</td><td>0.96</td><td>0.05</td></tr>
+<tr><td>Reklamcılık ve Pazar Araştırması</td><td>7.72</td><td>1.48</td><td>3.46</td><td>0.10</td></tr>
+<tr><td>Savunma</td><td>67.84</td><td>3.80</td><td>29.87</td><td>0.32</td></tr>
+<tr><td>Seyahat Acentesi, Tur Operatörü</td><td></td><td>2.53</td><td>120.45</td><td>0.03</td></tr>
+<tr><td>Sigorta Şirketleri</td><td>5.43</td><td>2.28</td><td></td><td></td></tr>
+<tr><td>Spor</td><td>17.47</td><td>2.66</td><td>6.13</td><td>0.08</td></tr>
+<tr><td>Tarım ve Hayvancılık, Avcılık</td><td></td><td>1.40</td><td>610.03</td><td></td></tr>
+<tr><td>Taş ve Toprağa Dayalı</td><td>30.84</td><td>3.14</td><td>19.26</td><td>0.95</td></tr>
+<tr><td>Tekstil, Giyim Eşyası ve Deri</td><td>19.32</td><td>5.45</td><td>26.59</td><td>0.43</td></tr>
+<tr><td>Telekomünikasyon</td><td>7.95</td><td>0.68</td><td>2.42</td><td>0.06</td></tr>
+<tr><td>Toptan Ticaret</td><td>42.28</td><td>4.43</td><td>27.55</td><td>0.32</td></tr>
+<tr><td>Ulaştırma ve Depolama</td><td>21.37</td><td>3.63</td><td>25.00</td><td>0.42</td></tr>
+<tr><td>Varlık Yönetim Şirketleri</td><td>10.61</td><td>2.57</td><td></td><td></td></tr>
+<tr><td>Yayıncılık</td><td>3.66</td><td>1.27</td><td></td><td>0.10</td></tr>
+<tr><td>Yiyecek ve İçecek Hizmetleri</td><td>47.79</td><td>2.59</td><td>5.65</td><td>0.10</td></tr>
+<tr><td>İmalat</td><td></td><td>5.83</td><td>14.97</td><td></td></tr>
+<tr><td>İnsan Sağlığı ve Sosyal Hizmetler</td><td>20.61</td><td>1.88</td><td>9.58</td><td>0.11</td></tr>
+<tr><td>İnşaat ve Bayındırlık İşleri</td><td>18.73</td><td>6.91</td><td>19.30</td><td>0.21</td></tr>
+</table>
+</body></html>
